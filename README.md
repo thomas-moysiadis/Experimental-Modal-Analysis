@@ -1,4 +1,4 @@
-# Experimental-Modal-Analysis-of-a-Cantilever-Beam
+# Experimental Modal Analysis of a Cantilever Beam
 
 MATLAB implementation of experimental modal analysis using impact-hammer excitation and acceleration measurements from ten equally spaced accelerometers mounted along a cantilever beam.
 
